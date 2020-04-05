@@ -123,7 +123,6 @@ header{
     transform: scale(1);
 }
 .nav-item{
-    /* border-bottom: 2px solid rgba(255, 255, 255, .3); */
     text-align: center;
 }
 .nav-link{
@@ -139,14 +138,18 @@ header{
     color: var(--secondary-font-color);
 }
 
-/* the hero */
-.hero{
-    width: 100%;
-    height: 100vh;
-    background: url('images/hero.jpg') center no-repeat;
+/* contact section  */
+.contact{
+    background: url("../images/tasteful-recipes.jpg") center no-repeat;
     background-size: cover;
+}
+.between{
+    min-height: 65vh;
     display: flex;
     align-items: center;
+}
+.global-headline{
+    margin-top: 3.9rem;
     text-align: center;
 }
 .sub-headline{
@@ -154,15 +157,11 @@ header{
     font-family: var(--secondary-font);
     color: var(--secondary-font-color);
     font-weight: 100;
-    line-height: .4;
+    line-height: .42;
     letter-spacing: 2px;
-    opacity: 0;
+    /* opacity: 0;
     animation: fadeUp .5s forwards;
-    animation-delay: .5s;
-}
-.first-letter{
-    text-transform: uppercase;
-    font-size: 10.3rem;
+    animation-delay: .5s; */
 }
 .headline{
     color: #fff;
@@ -172,169 +171,72 @@ header{
     font-weight: 900;
     letter-spacing: .5rem;
     margin-right: -.5rem;
-    opacity: 0;
-    animation: scale .5s forwards;
+    /* opacity: 0;
+    animation: scale .5s forwards; */
 }
-.separator{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.line{
-    width: 100%;
-    max-width: 8.4rem;
-    height: .25rem;
-    background-color: #fff;
-    position: relative;
-    opacity: 0;
-    animation: grow 2s forwards;
-    animation-delay: .9s;
-}
-.line-left::before,.line-right::before{
-    content: '';
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    border: .6rem solid transparent;
-    opacity: 0;
-    animation: grow .5s forwards;
-    animation-delay: 1.2s;
-}
-.line-right::before{
-    border-right-color: #fff;
-    right: 0;
-}
-.line-left::before{
-    border-left-color: #fff;
-    left: 0;
-}
-.asterisc{
-    font-size: 1.2rem;
-    color: var(--secondary-font-color);
-    margin: 0 1.6rem;
-    opacity: 0;
-    animation: spin .5s forwards;
-    animation-delay: .7s;
-}
-.single-animation{
-    opacity: 0;
-    animation: fadeDown .5s forwards;
-    animation-delay: 1.5s;
-}
-.headline-description h5{
-    color: #fff;
-    font-size: 1.4rem;
+
+
+/* contact centent section */
+.contact-details h4{
+    font-size: 2.4rem;
+    text-transform: uppercase;
     font-weight: 100;
-    text-transform: uppercase;
-    margin-bottom: 1.2rem;
     letter-spacing: 3px;
-    margin-right: -3px;
-}
-.btn{
-    display: inline-block;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-right: -2px;
-}
-.cta-btn{
-    font-size: 1.1rem;
-    background-color: #fff;
-    padding: .9rem 1.8rem;
-    color: var(--body-font-color);
-    border-radius: .4rem;
-    transition: background-color .5s;
-}
-.cta-btn:hover,
-.cta-btn:focus{
-    color: #fff;
-    background-color: var(--secondary-font-color);
-}
-
-
-
-.discover-our-story .global-headline{
-    margin-top: 6.9rem;
-}
-.global-headline{
-    margin-top: 3.9rem;
-    text-align: center;
-}
-.global-headline .asterisc{
-    color: var(--body-font-color);
-    margin: 2.4rem;
-}
-.headline-dark{
-    color: var(--main-font-color-dark);
-    letter-spacing: .7rem;
-    margin-right: -.7rem;
-}
-.global-headline .sub-headline{
-    letter-spacing: -1px;
-    line-height: .42;
-}
-.restaurant-info{
-    text-align: center;
-}
-.restaurant-description{
     margin-bottom: 3rem;
 }
-.restaurant-description p{
-    line-height: 1.6;
-    margin-bottom: 2.4rem;
+.contact-details p{
+    margin-bottom: 3rem;
 }
-.body-btn{
-    font-size: 1.5rem;
-    color: var(--secondary-font-color);
-    position: relative;
+.contact-details i{
+    font-size: 4rem;
+    color: var(--main-font-color-dark);
     transition: color .5s;
 }
-.body-btn::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -3px;
-    width: 100%;
-    height: 2px;
-    background-color: var(--secondary-font-color);
-    transition: background-color .5s;
+.contact-details i:hover{
+    color: var(--secondary-font-color);
 }
-.body-btn:hover,
-.body-btn:focus{
-    color: var(--main-font-color-dark);
-}
-.body-btn:hover::before,
-.body-btn:focus::before{
-    background-color: var(--main-font-color-dark);
+.contact-details i:first-child{
+    margin-right: 2rem;
 }
 
-
-
-.tasteful-recipes{
-    background: url("images/tasteful-recipes.jpg") center no-repeat;
-    background-size: cover;
-}
-.between{
-    min-height: 65vh;
-    display: flex;
-    align-items: center;
-}
-
-
-.image-group{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1.5rem
-}
-.discover-our-menu .restaurant-description{
+.form-content{
     padding-top: 3rem;
-    margin-bottom: 0;
+}
+.form-content p{
+    margin: 0;
+}
+.form-content input,
+.form-content textarea{
+    width: 100%;
+    padding: 1rem;
+    border-radius: .4rem;
+    margin-bottom: 1.8rem;
+}
+.form-content .submit-btn{
+    padding: 1rem 2rem;
+    color: #fff;
+    background-color: var(--main-font-color-dark);
+    border-radius: .4rem;
+    transition: background-color .5s;
+    border: none;
+}
+.form-content .submit-btn:hover{
+    cursor: pointer;
+    background-color: var(--secondary-font-color);
+}
+.form-content .submit-btn:focus,
+input,
+textarea{
+    outline: none;
 }
 
-.perfect-blend{
-    background: url("images/perfect-blend.jpg") center no-repeat;
-    background-size: cover;
+/* map section */
+.map{
+    padding: 3rem 0;
 }
 
+
+/* footer  */
 footer{
     padding: 7.9rem 0;
     background-color: #121212;
@@ -427,7 +329,9 @@ footer{
     section{
         padding: 7.9rem;
     }
-
+    header{
+        position: fixed;
+    }
     .menu-toggle{
         display: none;
     }
@@ -448,6 +352,7 @@ footer{
     .nav-item{
         margin: 0 2.4rem;
         border: none;
+        position: relative;
     }
     .nav-item:last-child{
         margin-right: 0;
@@ -456,10 +361,6 @@ footer{
         font-size: 1.3rem;
     }
     .active{
-        position: relative;
-    }
-    .active::before{
-        content: '';
         position: absolute;
         width: 100%;
         height: 2px;
@@ -477,18 +378,20 @@ footer{
         font-size: 4.7rem;
         letter-spacing: .8rem;
     }
-    .line{
-        max-width: 11.4rem;
-    }
-    .restaurant-info{
+    .contact-details{
         display: flex;
-        align-items: center;
     }
-    .restaurant-info > div{
+    .contact-details > div{
         flex: 1;
     }
     .padding-right{
         padding-right: 7rem;
+    }
+    .map{
+        padding: 3rem;
+    }
+    .form-content{
+        padding-top: 0;
     }
     .footer-content{
         max-width: 77.5rem;
