@@ -1,4 +1,6 @@
 $(document).ready(function () {
+
+    //navbar style changes on scroll
     if ($(window).scrollTop() > 0) {
         navbarToTop();
     }
@@ -61,13 +63,13 @@ $(document).ready(function () {
         origin: 'top',
         duration: 1000,
         distance: '25rem',
-        delay: 600
+        delay: 400
     });
     sr.reveal('.animate-bottom', {
         origin: 'bottom',
         duration: 1000,
         distance: '25rem',
-        delay: 600
+        delay: 400
     });
 
 });

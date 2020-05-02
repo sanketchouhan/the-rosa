@@ -8,3 +8,241 @@ Delight:
 We promise an intimate and relaxed dining experience that offers something different to local and foreign patrons and ensures you enjoy a memorable food experience every time.
 
 footer:
+
+
+Menu page:
+head:
+Chef Michel Paris Jr and Head Chef Steve Groves have created a menu of dishe using the finest seasonal produce. Table service throughout for food and drinks. Taking inspiration from around the world, all the dishes on our menu are designed for sharing. Using incredible British produce, whole animals and fish are butchered and prepared on site every day, and paired with ingredients so good they really speak for themselves.
+
+Staters;
+ENGLISH-ASPARAGUS
+Asparagus, hens egg, toasted sunflower seeds, Spenwood cheese
+
+$14.95
+CORNISH-MACKEREL
+Cornish mackerel, marinated tomatoes, fragrant curry, tamarillo
+
+$10.45
+QUAIL
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$9.95
+CHEF SELECTION
+CURRY-TAMARILLOR
+Cornish mackerel, marinated tomatoes, fragrant curry, tamarillo
+
+$7.95
+CRISPY
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$12.95
+ROASTED STEAK ROULADE
+Mint parsley with apple cider vinegar, salt, sugar & spices
+
+$14.95
+SEASONAL SOUP
+Daily preparation
+
+$5.95
+CAMPO LINDO CHICKEN
+Fava beans, artchokes, farro & black current gastrique
+
+$24.95
+
+
+Mains;
+SEA-TROUT
+Roast Trout, English asparagus, Jersey Royals, watercress
+
+$26.95
+FILET DE SAUMON
+Baked salmon fillet, hollandaise sauce, rosemary salt potatoes
+
+$13.95
+CONFIT DE CANARD
+Duck confit, white bean & ham cassoulet, wilted spinach
+
+$12.15
+POULET CORDON BLEU
+Paupiette of chicken, blue cheese & ham, rosemary salt  and beans
+
+$13.95
+
+Desserts:
+CREME BRULEE
+Rich vanilla custard with a caramelised sugar crust
+
+$5.25
+NEW
+TARTE TATIN
+Caramelised apple tart, vanilla ice cream
+
+$5.95
+ASSIETTE DE FROMAGES
+French cheese selection, chutney and biscuits
+
+$6.95
+
+
+
+lunch:
+CAMPO LINDO CHICKEN
+Fava beans, artchokes, farro & black current gastrique
+
+$24.95
+MAPLE FARM BREAST
+Creamy polenta, english peas, carrots & port sauce
+
+$29.95
+SEA-TROUT
+Roast Trout, English asparagus, Jersey Royals, watercress
+
+$26.95
+CRISPY
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$12.95
+ROASTED STEAK ROULADE
+Mint parsley with apple cider vinegar, salt, sugar & spices
+
+$14.95
+SEASONAL SOUP
+Daily preparation
+
+$5.95
+CRISPY
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$12.95
+ROASTED STEAK ROULADE
+Mint parsley with apple cider vinegar, salt, sugar & spices
+
+$14.95
+SEASONAL SOUP
+Daily preparation
+
+FILET DE SAUMON
+Baked salmon fillet, hollandaise sauce, rosemary salt potatoes
+
+$13.95
+CONFIT DE CANARD
+Duck confit, white bean & ham cassoulet, wilted spinach
+
+$12.15
+POULET CORDON BLEU
+Paupiette of chicken, blue cheese & ham, rosemary salt  and beans
+
+$13.95
+
+
+dinner :
+
+CORNISH-MACKEREL
+Cornish mackerel, marinated tomatoes, fragrant curry, tamarillo
+
+$10.45
+QUAIL
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$9.95
+CURRY-TAMARILLOR
+Cornish mackerel, marinated tomatoes, fragrant curry, tamarillo
+
+$7.95
+CRISPY
+Smoked quail, crispy egg, spelt, girolles, parsley
+
+$12.95
+RECOMMENDED
+ROASTED STEAK ROULADE
+Mint parsley with apple cider vinegar, salt, sugar & spices
+
+$14.95
+SEASONAL SOUP
+Daily preparation
+
+$5.95
+CAMPO LINDO CHICKEN
+Fava beans, artchokes, farro & black current gastrique
+
+$24.95
+MAPLE FARM BREAST
+Creamy polenta, english peas, carrots & port sauce
+
+$29.95
+SEA-TROUT
+Roast Trout, English asparagus, Jersey Royals, watercress
+
+$26.95
+FILET DE SAUMON
+Baked salmon fillet, hollandaise sauce, rosemary salt potatoes
+
+$13.95
+CONFIT DE CANARD
+Duck confit, white bean & ham cassoulet, wilted spinach
+
+$12.15
+POULET CORDON BLEU
+Paupiette of chicken, blue cheese & ham, rosemary salt  and beans
+
+$13.95
+
+
+drinks:
+CHAMPAGNE
+Bottle
+CHAPEL DOWN
+Brut Rose
+
+$47.95
+CHANDON
+Brut Imperial
+
+$46.95
+CHANDON
+Brut ARG
+
+$46.95
+BEERS
+Lager
+MEANTIME PILSNER
+Hells Lager
+
+$4.45
+CAMDEN HELLS LAGER
+Pale Ale
+
+$5.95
+WYLD WOOD
+Apple Cider
+
+$5.50
+
+WHITE WINE
+Bottle
+GASCOGNE BLANC
+Cuvee Jean Paul, 2013
+
+$20.95
+ALPHA ZETA
+Chardonnay, Veneto, 2011
+
+$36.95
+FAIRVIEW DARLING
+Paarl, South Africa, 2012
+
+$26.95
+RED WINE
+Bottle
+EXCELSIOR
+Cabernet Sauvognon, South Africa, 2011
+
+$29.95
+MALBEC MONTES CLASSIC
+Colchagua Valley, Mendoza, 2012
+
+$35.95
+16 STOPS MCLAREN
+Vale Shiraz, Australia, 2012
+
+$35.50

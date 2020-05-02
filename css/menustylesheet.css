@@ -427,9 +427,6 @@ footer{
     .menu-items > div{
         flex: 1;
     }
-    /* .items-div{
-        padding: rem;
-    } */
     .padding-right{
         padding-right: 7rem;
     }
